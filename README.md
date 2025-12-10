@@ -3,10 +3,8 @@
 
 <p align="center">
   <a href="https://github.com/MohamadSalamaMouse">
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamadSalamaMouse&theme=dracula&margin-w=15&no-frame=true" onerror="this.src='https://github-profile-trophy-mirror.vercel.app/?username=MohamadSalamaMouse&theme=dracula&margin-w=15&no-frame=true'" />
-</p>
 
+Second Account
 
   </a>
 </p>
@@ -146,6 +144,7 @@ User & course management, subscription logic, dashboard control.
 </p>
 
 ---
+
 
 
 
