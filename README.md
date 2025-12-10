@@ -3,7 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/MohamadSalamaMouse">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohamadSalamaMouse&theme=dracula&margin-w=15" alt="trophies"/>
+    <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamadSalamaMouse&theme=dracula&margin-w=15&no-frame=true" />
+</p>
+
   </a>
 </p>
 
@@ -16,8 +19,37 @@
 ---
 
 ## 🚀 About Me  
-Backend Developer specialized in **Laravel**, **RESTful APIs**, **database design**, and **scalable backend architectures**.  
-I build production-grade systems for **logistics**, **healthcare**, **education**, and **enterprise management**.
+---
+
+## 💼 Professional Summary 
+
+I'm a Backend Developer specialized in **Laravel**, **API Architecture**, and **scalable backend systems**.  
+I build real-world, production-ready platforms with a strong focus on clean code, performance, and maintainability.
+
+I have hands-on experience leading backend development across logistics platforms, ERP systems, educational platforms, and enterprise dashboards. My work includes designing RESTful APIs, crafting optimized database schemas, and developing feature-rich admin dashboards using Laravel & Filament.
+
+### 💡 What I Do
+- Architect backend systems using **Laravel**, **PHP**, **Filament**, and **MySQL/PostgreSQL**
+- Build secure and scalable **RESTful APIs**
+- Design optimized relational database structures
+- Develop dashboards and complete admin panels with multi-role access
+- Integrate external services (WhatsApp, SMS, payment systems, logistics APIs)
+- Apply clean architecture, OOP, MVC, and database optimization best practices
+
+### 🧩 Key Projects
+- **Qargoquote** – Qatar's first B2B logistics marketplace  
+- **Dental Lab Management System** – full ERP (cases, inventory, HR, invoicing, dashboards)  
+- **Gym Management System** – memberships, attendance, commissions, notifications  
+- **Diraya E-Learning Platform** – course and user management with dashboard control  
+
+### 🎯 Career Goals
+Open to opportunities in:  
+**Backend Development, Laravel Engineering, API Development, Full-Stack (Laravel), and System Architecture roles.**
+
+I’m always open to collaboration on impactful, high-quality backend solutions.
+
+---
+
 
 - 🌱 Currently focusing on **Advanced Backend Development & System Architecture**
 - 💬 Ask me about **Laravel, PHP, Filament, APIs, Database Optimization**
@@ -93,11 +125,6 @@ User & course management, subscription logic, dashboard control.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamadSalamaMouse&layout=compact&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamadSalamaMouse&show_icons=true&theme=radical" />
@@ -118,4 +145,5 @@ User & course management, subscription logic, dashboard control.
 </p>
 
 ---
+
 
