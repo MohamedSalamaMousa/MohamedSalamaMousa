@@ -2,12 +2,9 @@
 <h3 align="center">Backend Developer | Laravel Specialist | API Architect</h3>
 
 <p align="center">
-  <a href="https://github.com/MohamadSalamaMouse">
-
-Second Account
-
-  </a>
+  <a href="https://github.com/MohamadSalamaMouse">Second Account</a>
 </p>
+
 
 <p align="center">
   <a href="https://twitter.com/slamtm608">
@@ -144,6 +141,7 @@ User & course management, subscription logic, dashboard control.
 </p>
 
 ---
+
 
 
 
