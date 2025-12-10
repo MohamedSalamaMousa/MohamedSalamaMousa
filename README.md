@@ -96,18 +96,17 @@ User & course management, subscription logic, dashboard control.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadSalamaMouse&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamadSalamaMouse&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamadSalamaMouse&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamadSalamaMouse&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadSalamaMouse&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=MohamadSalamaMouse&theme=radical" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -119,3 +118,4 @@ User & course management, subscription logic, dashboard control.
 </p>
 
 ---
+
